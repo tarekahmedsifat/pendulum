@@ -1,0 +1,5 @@
+{
+  "name": "Double Pendulum Lab",
+  "description": "A high-precision chaotic physics simulator using the Runge-Kutta (RK4) numerical method. Explore non-linear dynamics with real-time visualization and energy telemetry.",
+  "requestFramePermissions": []
+}
